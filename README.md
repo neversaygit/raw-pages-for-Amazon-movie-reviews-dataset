@@ -24,7 +24,7 @@ Files in all three links below are exactly the same, you only need to choose one
     
 - Mega.nz:
 
-    link: (placeholder)
+    link: https://mega.nz/folder/TixU1KBB#mNCYn6Z8yHpoe77tQJXfXQ
     
 - Baidu Cloud:
 
