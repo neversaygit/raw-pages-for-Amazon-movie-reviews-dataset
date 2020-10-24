@@ -12,17 +12,22 @@ You will need at least **250 GB free disk space** to download and decompress the
 
 If you are using Win10 system, you might want to temporarily turn off the "Real-time protection" while decompressing as it will dramatically slowdown the decompression process. 
 
-## Download Link
+## Download Links
 
 Files in all three links below are exactly the same, you only need to choose one link to download.
 
 - Tianyi Cloud:
+
     link: https://cloud.189.cn/t/MryuQva6N73q
+    
     code: 3tkp
     
 - Mega.nz:
+
     link: (placeholder)
     
 - Baidu Cloud:
+
     link: https://pan.baidu.com/s/15CRVhePPeKU21TcXgaAGdw
+    
     code: b2wd
